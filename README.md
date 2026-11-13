@@ -1,2 +1,2 @@
 # cybersecurity
-Securiy Analysis
+Security Analysis
